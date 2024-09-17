@@ -1,4 +1,4 @@
 snake-game
 ==========
 
-A snake game based on Qt.
+A snake game based on Q
